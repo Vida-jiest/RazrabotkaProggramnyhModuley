@@ -1,0 +1,11 @@
+D:\Alik Abdurahmanov\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+D:\Alik Abdurahmanov\1\1\obj\Debug\ShapeManagerApp.Form1.resources
+D:\Alik Abdurahmanov\1\1\obj\Debug\_1.Properties.Resources.resources
+D:\Alik Abdurahmanov\1\1\obj\Debug\1.csproj.GenerateResource.cache
+D:\Alik Abdurahmanov\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\Alik Abdurahmanov\1\1\bin\Debug\1.exe.config
+D:\Alik Abdurahmanov\1\1\bin\Debug\1.exe
+D:\Alik Abdurahmanov\1\1\bin\Debug\1.pdb
+D:\Alik Abdurahmanov\1\1\obj\Debug\1.exe
+D:\Alik Abdurahmanov\1\1\obj\Debug\1.pdb
+D:\Alik Abdurahmanov\1\1\obj\Debug\1.exe.config
