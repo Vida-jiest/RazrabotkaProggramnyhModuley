@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|d:\\akbievvaidullaruslanovij\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u043C\u043E\u0434\\taskmeneg\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|solutionrelative:taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|d:\\akbievvaidullaruslanovij\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u043C\u043E\u0434\\taskmeneg\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|solutionrelative:taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|d:\\akbievvaidullaruslanovij\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u043C\u043E\u0434\\taskmeneg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|d:\\akbievvaidullaruslanovij\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u043C\u043E\u0434\\taskmeneg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|d:\\akbievvaidullaruslanovij\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u043C\u043E\u0434\\taskmeneg\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|solutionrelative:task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|d:\\akbievvaidullaruslanovij\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u043C\u043E\u0434\\taskmeneg\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|solutionrelative:taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|d:\\akbievvaidullaruslanovij\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u043C\u043E\u0434\\taskmeneg\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D01C953-4900-42D3-8DEC-60933FEA3B30}|TaskMeneg.csproj|solutionrelative:filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\TaskForm.cs",
+              "RelativeDocumentMoniker": "TaskForm.cs",
+              "ToolTip": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\TaskForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TaskForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:53:26.192Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\FileManager.cs",
+              "RelativeDocumentMoniker": "FileManager.cs",
+              "ToolTip": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\FileManager.cs",
+              "RelativeToolTip": "FileManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:47:51.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:44:50.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskForm.cs",
+              "DocumentMoniker": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\TaskForm.cs",
+              "RelativeDocumentMoniker": "TaskForm.cs",
+              "ToolTip": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\TaskForm.cs",
+              "RelativeToolTip": "TaskForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:44:18.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\TaskManager.cs",
+              "RelativeDocumentMoniker": "TaskManager.cs",
+              "ToolTip": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\TaskManager.cs",
+              "RelativeToolTip": "TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:43:46.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\Task.cs",
+              "RelativeDocumentMoniker": "Task.cs",
+              "ToolTip": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\Task.cs",
+              "RelativeToolTip": "Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:43:22.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\AkbievVaidullaRuslanovij\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445\u041C\u043E\u0434\\TaskMeneg\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:42:44.714Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
