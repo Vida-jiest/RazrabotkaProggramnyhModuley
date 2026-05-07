@@ -1,0 +1,11 @@
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\BazaDannih\BazaDannih\bin\Debug\Database1.mdf
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\BazaDannih\BazaDannih\bin\Debug\Database1_log.ldf
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\BazaDannih\BazaDannih\bin\Debug\BazaDannih.exe.config
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\BazaDannih\BazaDannih\bin\Debug\BazaDannih.exe
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\BazaDannih\BazaDannih\bin\Debug\BazaDannih.pdb
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\BazaDannih\BazaDannih\obj\Debug\BazaDannih.csproj.AssemblyReference.cache
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\BazaDannih\BazaDannih\obj\Debug\BazaDannih.Properties.Resources.resources
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\BazaDannih\BazaDannih\obj\Debug\BazaDannih.csproj.GenerateResource.cache
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\BazaDannih\BazaDannih\obj\Debug\BazaDannih.csproj.CoreCompileInputs.cache
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\BazaDannih\BazaDannih\obj\Debug\BazaDannih.exe
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\BazaDannih\BazaDannih\obj\Debug\BazaDannih.pdb

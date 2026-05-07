@@ -9,3 +9,14 @@ D:\Alik Abdurahmanov\1\1\bin\Debug\1.pdb
 D:\Alik Abdurahmanov\1\1\obj\Debug\1.exe
 D:\Alik Abdurahmanov\1\1\obj\Debug\1.pdb
 D:\Alik Abdurahmanov\1\1\obj\Debug\1.exe.config
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\QR-Code программа\1\bin\Debug\1.exe.config
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\QR-Code программа\1\bin\Debug\1.exe
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\QR-Code программа\1\bin\Debug\1.pdb
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\QR-Code программа\1\obj\Debug\1.csproj.AssemblyReference.cache
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\QR-Code программа\1\obj\Debug\1.exe.config
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\QR-Code программа\1\obj\Debug\ShapeManagerApp.Form1.resources
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\QR-Code программа\1\obj\Debug\_1.Properties.Resources.resources
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\QR-Code программа\1\obj\Debug\1.csproj.GenerateResource.cache
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\QR-Code программа\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\QR-Code программа\1\obj\Debug\1.exe
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\QR-Code программа\1\obj\Debug\1.pdb

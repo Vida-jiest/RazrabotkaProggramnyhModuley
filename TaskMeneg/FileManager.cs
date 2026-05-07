@@ -1,43 +1,79 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Text.Json;
 
-public class FileManager
+namespace TaskManagerApp
 {
-    private string filePath = "tasks.json";
-
-    public void SaveTasks(List<Task> tasks)
+    public class FileManager
     {
-        try
-        {
-            string json = JsonSerializer.Serialize(tasks, new JsonSerializerOptions
-            {
-                WriteIndented = true
-            });
-            File.WriteAllText(filePath, json);
-        }
-        catch (Exception ex)
-        {
-            throw new Exception($"Ошибка при сохранении задач: {ex.Message}");
-        }
-    }
+        private readonly string _filePath;
 
-    public List<Task> LoadTasks()
-    {
-        try
+        public FileManager()
         {
-            if (File.Exists(filePath))
+            // Путь к рабочему столу
+            string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+
+            // Файл tasks.txt прямо на рабочем столе
+            _filePath = Path.Combine(desktopPath, "tasks.txt");
+        }
+
+        public void SaveTasks(List<Task> tasks)
+        {
+            try
             {
-                string json = File.ReadAllText(filePath);
-                return JsonSerializer.Deserialize<List<Task>>(json) ?? new List<Task>();
+                using (StreamWriter writer = new StreamWriter(_filePath))
+                {
+                    foreach (var task in tasks)
+                    {
+                        // Формат: Id|Title|Description|IsCompleted|CreatedAt
+                        writer.WriteLine($"{task.Id}|{task.Title}|{task.Description}|{task.IsCompleted}|{task.CreatedAt}");
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Ошибка сохранения: {ex.Message}");
             }
         }
-        catch (Exception ex)
+
+        public List<Task> LoadTasks()
         {
-            throw new Exception($"Ошибка при загрузке задач: {ex.Message}");
+            List<Task> tasks = new List<Task>();
+
+            try
+            {
+                if (File.Exists(_filePath))
+                {
+                    string[] lines = File.ReadAllLines(_filePath);
+                    foreach (string line in lines)
+                    {
+                        string[] parts = line.Split('|');
+                        if (parts.Length == 5)
+                        {
+                            Task task = new Task
+                            {
+                                Id = int.Parse(parts[0]),
+                                Title = parts[1],
+                                Description = parts[2],
+                                IsCompleted = bool.Parse(parts[3]),
+                                CreatedAt = DateTime.Parse(parts[4])
+                            };
+                            tasks.Add(task);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Windows.Forms.MessageBox.Show($"Ошибка загрузки: {ex.Message}");
+            }
+
+            return tasks;
         }
 
-        return new List<Task>();
+        public string GetFilePath()
+        {
+            return _filePath;
+        }
     }
 }

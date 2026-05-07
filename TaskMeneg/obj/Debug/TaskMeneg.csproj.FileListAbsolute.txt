@@ -20,10 +20,11 @@ D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\Tas
 D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\TaskMeneg\bin\Debug\System.Text.Json.xml
 D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\TaskMeneg\bin\Debug\System.Threading.Tasks.Extensions.xml
 D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\TaskMeneg\obj\Debug\TaskMeneg.csproj.AssemblyReference.cache
-D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\TaskMeneg\obj\Debug\TaskMeneg.Form1.resources
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\TaskMeneg\obj\Debug\TaskManagerApp.MainForm.resources
 D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\TaskMeneg\obj\Debug\TaskMeneg.Properties.Resources.resources
 D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\TaskMeneg\obj\Debug\TaskMeneg.csproj.GenerateResource.cache
 D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\TaskMeneg\obj\Debug\TaskMeneg.csproj.CoreCompileInputs.cache
 D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\TaskMeneg\obj\Debug\TaskMeneg.csproj.Up2Date
 D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\TaskMeneg\obj\Debug\TaskMeneg.exe
 D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\TaskMeneg\obj\Debug\TaskMeneg.pdb
+D:\AkbievVaidullaRuslanovij\РазработкаПрограммныхМод\TaskMeneg\obj\Debug\TaskMeneg.exe.config
